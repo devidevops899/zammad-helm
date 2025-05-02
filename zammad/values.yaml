@@ -8,6 +8,7 @@ image:
   # tag: "latest"  # all updates of stable versions, including major
   # tag: "develop" # bleeding-edge development version
   # If you want to use a floating version, you should also set pullPolicy: Always
+  # this is testttt
   tag: ""
   pullPolicy: IfNotPresent
   imagePullSecrets: []
